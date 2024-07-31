@@ -76,7 +76,7 @@ Python 3.x
 How to Run
 Ensure you have Python 3.x installed.
 Place the script in your working directory.
-Run the script using the command: python 
+Run the script using the command: python Basta_Fazoolin.py
 
 License
 This project is licensed under the MIT License.
